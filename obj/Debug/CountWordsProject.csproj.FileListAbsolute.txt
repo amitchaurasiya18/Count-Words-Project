@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\CountWordsProject\bin\Debug\CountWordsProject.exe.config
+D:\Visual Studio Projects (Training)\CountWordsProject\bin\Debug\CountWordsProject.exe
+D:\Visual Studio Projects (Training)\CountWordsProject\bin\Debug\CountWordsProject.pdb
+D:\Visual Studio Projects (Training)\CountWordsProject\obj\Debug\CountWordsProject.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\CountWordsProject\obj\Debug\CountWordsProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\CountWordsProject\obj\Debug\CountWordsProject.exe
+D:\Visual Studio Projects (Training)\CountWordsProject\obj\Debug\CountWordsProject.pdb
